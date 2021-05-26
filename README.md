@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Jeong%20In%20Tae&fontSize=100)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Hi there 👋
 
