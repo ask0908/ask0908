@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Jeong%20In%20Tae&fontSize=100
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Jeong%20In%20Tae&fontSize=100)
 
 ### Hi there 👋
 
