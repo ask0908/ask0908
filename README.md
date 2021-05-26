@@ -10,7 +10,7 @@ DB <img src="https://img.shields.io/badge/MySQL-4479A1?style=circle&logo=mysql&l
 
 Tool <img src="https://img.shields.io/badge/VirtualBox-183A61?style=circle&logo=VirtualBox&logoColor=white"/> 
 
-Other <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=circle&logo=Kaggle&logoColor=white"/> 
+Other <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=circle&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=circle&logo=Github&logoColor=white"/> 
 
 ### Hi there 👋
 
