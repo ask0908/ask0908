@@ -14,8 +14,6 @@ Other <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=circle&logo=Kag
 
 ## 안녕하세요! 1년차 개발자 정인태입니다 👋
 
----
-
 ## Contact@Channel
 
 ### 블로그 : https://onlyfor-me-blog.tistory.com/
