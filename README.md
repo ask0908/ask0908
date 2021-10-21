@@ -12,7 +12,7 @@ Tool <img src="https://img.shields.io/badge/VirtualBox-183A61?style=circle&logo=
 
 Other <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=circle&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=circle&logo=Github&logoColor=white"/> 
 
-### Hi there 👋
+### 안녕하세요! 1년차 개발자  👋
 
 <!--
 **ask0908/ask0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
