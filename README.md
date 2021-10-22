@@ -20,7 +20,7 @@ Other <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=circle&logo=Kag
 - 공부한 내용, 에러 해결 과정, 구현 예제 등이 포스팅 주제입니다
 - 구글 애드센스가 적용돼 있습니다
 
-### Github : https://github.com/ask0908
+### Github
 - 내부 프로젝트 등 중요한 레포들은 private 상태고, 공부를 목적으로 포크한 레포나 공부 목적으로 작성한 코드만 public 상태입니다
 
 
