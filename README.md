@@ -12,7 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask0908&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> Techs that I've used at least once </p>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <!--
 
