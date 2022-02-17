@@ -10,9 +10,6 @@
 ### Github
 - 내부 프로젝트 등 중요한 레포들은 private 상태고, 공부를 목적으로 포크한 레포나 공부 목적으로 작성한 코드만 public 상태입니다
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-
 
 <!--
 **ask0908/ask0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
