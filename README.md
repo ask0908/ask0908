@@ -12,10 +12,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask0908&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<center>🛠 Tech Stack 🛠</center>
-<p align="center"><img width="10%" src="http://www.w3.org/2000/svg" /></p>
-
 <!--
 **ask0908/ask0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
