@@ -9,7 +9,7 @@
 ### 블로그 : https://onlyfor-me-blog.tistory.com/
 - 공부한 내용, 에러 해결 과정, 구현 예제 등이 주요 포스팅 주제입니다
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask0908&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask0908&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
