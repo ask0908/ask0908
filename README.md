@@ -4,10 +4,12 @@
 
 # 안녕하세요! 안드로이드 개발자 정인태입니다 👋  
 
-## Contact@Channel
+## Contact
 
 ### 블로그 : https://onlyfor-me-blog.tistory.com/
 - 공부한 내용, 에러 해결 과정, 구현 예제 등이 주요 포스팅 주제입니다
+
+이메일 : ne0001913@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask0908&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
